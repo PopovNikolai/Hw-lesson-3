@@ -1,0 +1,25 @@
+.header {
+  border: 1px solid black;
+  background-color: black;
+}
+.headline {
+  width: 100%;
+  color: white;
+  border: 1px solid black;
+  background-color: red;
+}
+.background {
+  width: 50%;
+  border: 1px double black;
+  background-color: white;
+}
+.border-line {
+  width: 100%;
+  border: 1px double black;
+}
+.footer {
+  background-color: red;
+}
+.github-link {
+  color: white;
+}
